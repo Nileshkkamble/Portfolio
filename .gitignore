@@ -1,4 +1,7 @@
 # Environment variables
+.vercel
+.next
+.firebase
 .env
 .env.local
 .env.development
