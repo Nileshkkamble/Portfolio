@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Puneet Shukla",
-    "email": "puneetshukla043@gmail.com",
-    "github": "https://github.com/puneetshukla14?tab=repositories",
-    "linkedin": "https://www.linkedin.com/in/shivamsharma77607"
+    "name": "Nilesh Kamble",
+    "email": "nkkamble33@gmail.com",
+    "github": "https://github.com/Nileshkkamble?tab=repositories",
+    "linkedin": "https://www.linkedin.com/in/nilesh-kamble-692173206/"
   },
   "scripts": {
     "dev": "next dev",
